@@ -1,0 +1,5 @@
+idChangueador;apellido;nombre;telefono;email;zona;fechaAlta;fechaBaja
+
+1;Perez;Juan;3624000000;juan@mail.com;Centro;01/01/2025;01/01/3000
+2;Gomez;Maria;3624111111;maria@mail.com;Villa San Juan;01/01/2025;01/01/3000
+3;Ruiz;Carlos;3624222222;carlos@mail.com;Resistencia Norte;01/01/2025;01/01/3000
