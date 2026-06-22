@@ -1,4 +1,22 @@
 idTarea;categoria1;categoria2;nombre;descripcion
+
 1;Hogar;Limpieza;Limpieza de Patio;Retiro de hojas y residuos
-2;Mascotas;Paseos;Paseo de Perros;Paseos recreativos
-3;Hogar;Muebles;Armado de Muebles;Armado e instalación básica
+2;Hogar;Limpieza;Limpieza de Tanque;Limpieza y desinfeccion
+3;Mascotas;Paseos;Paseo de Perros;Paseo recreativo
+4;Mascotas;Higiene;Baño de Mascotas;Baño y secado
+5;Hogar;Mudanzas;Mover Muebles;Traslado interno
+6;Hogar;Armado;Armado de Muebles;Armado basico
+7;Hogar;Plomeria;Cambio de Canilla;Reemplazo simple
+8;Hogar;Electricidad;Cambio de Lampara;Instalacion simple
+9;Personas;Tramites;Acompañamiento;Gestiones y tramites
+10;Bienestar;Masajes;Masajes Relajantes;Sesion de una hora
+11;Jardineria;Cesped;Corte de Pasto;Corte y limpieza
+12;Jardineria;Arboles;Poda Ligera;Poda de ramas bajas
+13;Limpieza;Vehiculos;Lavado de Autos;Lavado exterior
+14;Limpieza;Vehiculos;Lavado Premium;Lavado completo
+15;Mascotas;Cuidado;Guarderia de Mascotas;Cuidado diario
+16;Hogar;Pintura;Pintura Interior;Paredes interiores
+17;Hogar;Albañileria;Reparaciones Menores;Arreglos simples
+18;Tecnologia;Soporte;Instalacion PC;Instalacion de software
+19;Tecnologia;Soporte;Configuracion WiFi;Configuracion domestica
+20;Personas;Clases;Apoyo Escolar;Clases particulares

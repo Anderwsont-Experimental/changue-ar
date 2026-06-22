@@ -1,5 +1,59 @@
-idPublicacion;prestador;servicio;descripcion;precioUSD;zona
-1;Juan Perez;Limpieza de Patio;Limpieza general y retiro de residuos;15;Centro
-2;Maria Gomez;Paseo de Perros;Paseos diarios y recreativos;10;Villa San Juan
-3;Carlos Ruiz;Armado de Muebles;Armado e instalación básica;20;Resistencia Norte
-4;Ana Lopez;Masajes Relajantes;Sesiones de 60 minutos;25;Microcentro
+idPublicacion;idChangueador;prestador;idTarea;servicio;descripcion;precioUSD;zona;fechaActualizacion
+
+1;1;Juan Perez;1;Limpieza de Patio;Retiro de hojas y residuos;15;Centro;01/06/2026
+2;1;Juan Perez;11;Corte de Pasto;Corte y limpieza;20;Centro;01/06/2026
+
+3;2;Maria Gomez;3;Paseo de Perros;Paseo recreativo;10;Villa San Juan;01/06/2026
+4;2;Maria Gomez;15;Guarderia de Mascotas;Cuidado diario;18;Villa San Juan;01/06/2026
+
+5;3;Carlos Ruiz;6;Armado de Muebles;Armado basico;20;Resistencia Norte;01/06/2026
+6;3;Carlos Ruiz;5;Mover Muebles;Traslado interno;25;Resistencia Norte;01/06/2026
+
+7;4;Ana Lopez;10;Masajes Relajantes;Sesion de una hora;30;Centro;01/06/2026
+
+8;5;Pedro Martinez;5;Mover Muebles;Traslado interno;18;Barranqueras;01/06/2026
+9;5;Pedro Martinez;17;Reparaciones Menores;Arreglos simples;22;Barranqueras;01/06/2026
+
+10;6;Lucia Fernandez;4;Baño de Mascotas;Baño y secado;15;Fontana;01/06/2026
+
+11;7;Diego Alvarez;7;Cambio de Canilla;Reemplazo simple;18;Centro;01/06/2026
+12;7;Diego Alvarez;8;Cambio de Lampara;Instalacion simple;12;Centro;01/06/2026
+
+13;8;Sofia Romero;13;Lavado de Autos;Lavado exterior;12;Villa Rio Negro;01/06/2026
+14;8;Sofia Romero;14;Lavado Premium;Lavado completo;25;Villa Rio Negro;01/06/2026
+
+15;9;Martin Acosta;9;Acompañamiento;Gestiones y tramites;10;Centro;01/06/2026
+16;9;Martin Acosta;20;Apoyo Escolar;Clases particulares;15;Centro;01/06/2026
+
+17;10;Laura Benitez;16;Pintura Interior;Paredes interiores;30;Puerto Tirol;01/06/2026
+18;10;Laura Benitez;17;Reparaciones Menores;Arreglos simples;28;Puerto Tirol;01/06/2026
+
+19;12;Paula Mendoza;2;Limpieza de Tanque;Limpieza y desinfeccion;18;Fontana;01/06/2026
+20;12;Paula Mendoza;11;Corte de Pasto;Corte y limpieza;16;Fontana;01/06/2026
+
+21;14;Elena Cabrera;18;Instalacion PC;Instalacion de software;22;Barranqueras;01/06/2026
+22;14;Elena Cabrera;19;Configuracion WiFi;Configuracion domestica;15;Barranqueras;01/06/2026
+
+23;15;Tomas Vega;20;Apoyo Escolar;Clases particulares;14;Centro;01/06/2026
+24;15;Tomas Vega;9;Acompañamiento;Gestiones y tramites;12;Centro;01/06/2026
+
+25;16;Natalia Dominguez;10;Masajes Relajantes;Sesion de una hora;35;Villa Prosperidad;01/06/2026
+
+26;18;Valeria Ortiz;15;Guarderia de Mascotas;Cuidado diario;20;Fontana;01/06/2026
+27;18;Valeria Ortiz;3;Paseo de Perros;Paseo recreativo;11;Fontana;01/06/2026
+
+28;19;Emanuel Sosa;13;Lavado de Autos;Lavado exterior;10;Centro;01/06/2026
+29;19;Emanuel Sosa;14;Lavado Premium;Lavado completo;18;Centro;01/06/2026
+
+30;20;Camila Leiva;16;Pintura Interior;Paredes interiores;35;Barranqueras;01/06/2026
+
+31;21;Jorge Paz;11;Corte de Pasto;Corte y limpieza;18;Centro;01/06/2026
+32;21;Jorge Paz;12;Poda Ligera;Poda de ramas bajas;25;Centro;01/06/2026
+
+33;22;Rita Flores;4;Baño de Mascotas;Baño y secado;14;Puerto Vilelas;01/06/2026
+
+34;24;Silvina Peralta;8;Cambio de Lampara;Instalacion simple;12;Villa Rio Negro;01/06/2026
+35;24;Silvina Peralta;19;Configuracion WiFi;Configuracion domestica;14;Villa Rio Negro;01/06/2026
+
+36;25;Lucas Ferreyra;18;Instalacion PC;Instalacion de software;24;Centro;01/06/2026
+37;25;Lucas Ferreyra;20;Apoyo Escolar;Clases particulares;16;Centro;01/06/2026

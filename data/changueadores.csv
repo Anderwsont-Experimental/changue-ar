@@ -1,4 +1,27 @@
 idChangueador;apellido;nombre;telefono;email;zona;fechaAlta;fechaBaja
-1;Perez;Juan;3624000000;juan@mail.com;Centro;01/01/2025;01/01/3000
-2;Gomez;Maria;3624111111;maria@mail.com;Villa San Juan;01/01/2025;01/01/3000
-3;Ruiz;Carlos;3624222222;carlos@mail.com;Resistencia Norte;01/01/2025;01/01/3000
+
+1;Perez;Juan;3624000001;juan@changue.ar;Centro;01/01/2024;01/01/3000
+2;Gomez;Maria;3624000002;maria@changue.ar;Villa San Juan;05/01/2024;01/01/3000
+3;Ruiz;Carlos;3624000003;carlos@changue.ar;Resistencia Norte;10/01/2024;01/01/3000
+4;Lopez;Ana;3624000004;ana@changue.ar;Centro;15/01/2024;01/01/3000
+5;Martinez;Pedro;3624000005;pedro@changue.ar;Barranqueras;20/01/2024;01/01/3000
+6;Fernandez;Lucia;3624000006;lucia@changue.ar;Fontana;25/01/2024;01/01/3000
+7;Alvarez;Diego;3624000007;diego@changue.ar;Centro;01/02/2024;01/01/3000
+8;Romero;Sofia;3624000008;sofia@changue.ar;Villa Rio Negro;01/02/2024;01/01/3000
+9;Acosta;Martin;3624000009;martin@changue.ar;Centro;10/02/2024;01/01/3000
+10;Benitez;Laura;3624000010;laura@changue.ar;Puerto Tirol;15/02/2024;01/01/3000
+11;Silva;Ramon;3624000011;ramon@changue.ar;Centro;01/03/2024;31/12/2025
+12;Mendoza;Paula;3624000012;paula@changue.ar;Fontana;01/03/2024;01/01/3000
+13;Rojas;Miguel;3624000013;miguel@changue.ar;Centro;01/03/2024;31/12/2025
+14;Cabrera;Elena;3624000014;elena@changue.ar;Barranqueras;01/04/2024;01/01/3000
+15;Vega;Tomas;3624000015;tomas@changue.ar;Centro;01/04/2024;01/01/3000
+16;Dominguez;Natalia;3624000016;natalia@changue.ar;Villa Prosperidad;01/04/2024;01/01/3000
+17;Luna;Jose;3624000017;jose@changue.ar;Centro;01/05/2024;31/12/2025
+18;Ortiz;Valeria;3624000018;valeria@changue.ar;Fontana;01/05/2024;01/01/3000
+19;Sosa;Emanuel;3624000019;emanuel@changue.ar;Centro;01/05/2024;01/01/3000
+20;Leiva;Camila;3624000020;camila@changue.ar;Barranqueras;01/05/2024;01/01/3000
+21;Paz;Jorge;3624000021;jorge@changue.ar;Centro;01/06/2024;01/01/3000
+22;Flores;Rita;3624000022;rita@changue.ar;Puerto Vilelas;01/06/2024;01/01/3000
+23;Maidana;Ricardo;3624000023;ricardo@changue.ar;Centro;01/06/2024;31/12/2025
+24;Peralta;Silvina;3624000024;silvina@changue.ar;Villa Rio Negro;01/07/2024;01/01/3000
+25;Ferreyra;Lucas;3624000025;lucas@changue.ar;Centro;01/07/2024;01/01/3000
