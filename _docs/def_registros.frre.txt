@@ -1,0 +1,34 @@
+fecha = Registro
+    año : (2000..2050)
+    mes : (1..12)
+    dia : (1..31)
+Fin_Registro
+
+changueadores = Registro
+    idChangueador : entero //clave del registro
+    apellido : alfanumerico
+    nombre : alfanumerico
+    telefono : entero
+    email : alfanumerico
+    zona : alfanumerico
+    fechaAlta : fecha
+    fechaBaja : fecha
+Fin_Registro
+
+tareas = Registro
+    idTarea : entero //clave del registro
+    categoria1 : alfanumerico
+    categoria2 : alfanumerico
+    nombre : alfanumerico
+    descripcion : alfanumerico
+Fin_Registro
+
+asignaciones = Registro
+    idAsignacion : entero //clave del registro
+    idChangueador : entero
+    idTarea : entero
+    precioUSD : entero
+    fechaInicio : fecha
+    fechaFin : fecha
+Fin_Registro
+
