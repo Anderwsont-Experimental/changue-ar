@@ -19,11 +19,22 @@ header {
     padding: 20px;
 }
 
-.busqueda {
+.estadisticas {
+
+    background: white;
+
+    margin: 20px;
 
     padding: 20px;
 
+    border-radius: 10px;
+}
+
+.busqueda {
+
     text-align: center;
+
+    padding: 20px;
 }
 
 #buscador {
@@ -52,7 +63,7 @@ header {
 
     background: white;
 
-    width: 300px;
+    width: 320px;
 
     border-radius: 10px;
 
@@ -71,6 +82,8 @@ header {
     color: green;
 
     font-weight: bold;
+
+    font-size: 18px;
 }
 
 footer {
@@ -80,4 +93,11 @@ footer {
     padding: 20px;
 
     background: #ddd;
+}
+
+button {
+
+    padding: 10px 20px;
+
+    cursor: pointer;
 }
